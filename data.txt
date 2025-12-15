@@ -1,0 +1,5 @@
+NOVEL|n1|pulang|72000.0|11|Action
+NOVEL|n2|pergi|67500.0|12|Adventure
+TEXTBOOK|t1|belajar java untuk balita|926250.0|94|Pemrograman
+TEXTBOOK|t2|how to diet|42750.0|30|Non Fiksi
+NOVEL|n3|le petit prince|65000.0|12|Adventure
