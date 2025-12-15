@@ -5,4 +5,3 @@ Fitur:
 - Tambah & hapus buku
 - Jual buku + hitung income
 - Simpan & load data dari file
-- Menggunakan inheritance, polymorphism, exception
